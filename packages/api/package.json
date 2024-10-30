@@ -15,5 +15,11 @@
   ],
   "scripts": {
     "test": "node ./__tests__/api.test.js"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "globals": "^15.11.0",
+    "typescript-eslint": "^8.12.2"
   }
 }
